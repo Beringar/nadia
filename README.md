@@ -31,6 +31,8 @@ This project uses ESLint to detect suspicious code in Javascript files. Visit ht
 
 This project uses Jest for testing. Visit https://jestjs.io for details.
 
+To execute tests: `npm test`
+
 ### Debugging
 
 This project uses https://www.npmjs.com/package/debug for development logging. To start `nodemon` and enable logging:
